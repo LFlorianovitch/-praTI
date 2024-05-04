@@ -1,0 +1,10 @@
+Olá Professor Jacques, espero que tu estejas bem.
+
+Para poder rodar os exercícios, será necessário, primeiramente, possuir um editor de código em seu computador, como o VS Code, por exemplo.
+
+Além do editor de código, será necessário instalar o Node JS (ambiente de programação em JavaScript) em seu VS Code. Aqui vai um pequeno tutorial explicando como instalá-lo: https://youtu.be/yBQkAw7z4SU.
+
+Além dessas instruções, é necessário abrir o terminal do seu VS Code, ele se encontra no canto superior esquerdo do seu editor de código, e é representado por 3 barras.
+Após aberto o terminal, é necessário inserir o seguinte comando para que o editor de código possa rodar os arquivos JS no Node: npm install prompt-sync.
+Por fim, basta abrir um novo terminal e escrever o comando, sem aspas, "node (nome do arquivo).js", e pressionar a tecla enter. Ao realizar isso, você estará executando, internamente, o programa.
+Para tornar mais claro, digamos que você possua um arquivo chamado teste01.js. Para rodá-lo no terminal, basta você digitar o seguinte comando: node teste01.js. 
